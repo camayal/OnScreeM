@@ -1,4 +1,4 @@
-# On Screen measurements
+# On Screen Measurement helper
 
 This little script was created with the aim of helping to take measurements with scale directly from any app in the screen of the computer. It should be compatible with all operative system. 
 
