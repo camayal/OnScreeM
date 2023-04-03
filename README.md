@@ -27,6 +27,7 @@ pip install tk
 `Backspace` -> Remove from memory last measurement  
 `Space` -> Minimize measurement zone  
 `Esc` -> Clean measuremnt area and restart scale. Useful to measure multiple photos with different scales. This do not clean measurements in the memory  
+`Alt + F4` -> Close the app  
 
 
 ## Usage
