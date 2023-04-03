@@ -7,7 +7,7 @@ The app is minimizable, so user could change photo, app, tab, etc., and take eve
 At the end pressing the key `Tab` it will report the range and outliners if there are any.
 
 Hotkeys:
-`Tab` -> Copy to the clipboard min, max and if possible min outlier and max outlier
-`Backspace` -> Remove from memory last measurement
-`Space` -> Minimize measurement area
-`Esc` -> Clean measuremnt area and restart scale. Useful to measure multiple photos with different scales. This do not clean measurements in the memory.
+`Tab` -> Copy to the clipboard min, max and if possible min outlier and max outlier  
+`Backspace` -> Remove from memory last measurement  
+`Space` -> Minimize measurement area  
+`Esc` -> Clean measuremnt area and restart scale. Useful to measure multiple photos with different scales. This do not clean measurements in the memory  
