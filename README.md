@@ -9,10 +9,17 @@ The first two points determine the scale in pixel equivalent to 1 cm, and then c
 The app is minimizable, so user could change photo, app, tab, etc., and take even more measurements. At the end pressing the key `Tab` it will report the range and outliners if there are any.
 
 ## Installation
-No installation required, just copy the script `OnScreeM.py` in a given folder and run it using Python, for example:
+No installation required, just copy the script `OnScreeM.py` in a given folder and run it using Python v.3.x.x, for example:
 
 ```Bash
 python -m OnScreeM.py
+```
+
+### Dependencies
+It is needed the library `tkinter`. The simplest way to get that library is using `pip`
+
+```Bash
+pip install tk
 ```
 
 ## Hotkeys  
