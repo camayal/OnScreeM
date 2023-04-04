@@ -16,7 +16,7 @@ python -m OnScreeM.py
 ```
 
 ### Dependencies
-It is needed the library `tkinter`. The simplest way to get that library is using `pip`
+The library `tkinter` is needed. The simplest way to get that library is by using `pip`
 
 ```Bash
 pip install tk
