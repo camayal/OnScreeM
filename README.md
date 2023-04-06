@@ -36,3 +36,10 @@ pip install tk
 
 
 ## Usage
+   1. Open the app, a transparent canvas will cover the entire screen
+   2. The first two clicks set the scale (pixels per 1 cm)
+   3. Following pair of clicks set a individual measurment
+   4. When done with measuring press `Tab` to copy into the clipboard a simplify report of minimum - maximum and possible outlier  
+   5. If complete measurments are wanted press instead `Shift + Tab` to copy into the clipboard all measurments in a CSV format. This can be pasted in Excel or Notepad  
+   
+![Image](./ico/animation-onscreem.gif)
