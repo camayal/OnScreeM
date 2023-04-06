@@ -8,12 +8,12 @@ The first two points determine the scale in pixel equivalent to 1 cm, and then c
 
 The app is minimizable, so user could change photo, app, tab, etc., and take even more measurements. At the end pressing the key `Tab` it will report the range and outliners if there are any.
 
-## Installation
+## Installation and execution
 No installation required.
 
-Use any of the binaries in the releases. Those are executables and should work on Windows (`OnScreeM.exe`) or Linux (`OnScreeM`).
+Use any of the binaries in releases. Those are executables and should work on Windows (`OnScreeM.exe`) or Linux (`OnScreeM`).
 
-Or just copy the script `OnScreeM.py` in any folder and run it using Python v.3.x.x, for example:
+Or just download the script [OnScreeM.py](https://raw.githubusercontent.com/camayal/OnScreeM/main/OnScreeM.py) in any folder and run it using Python v.3.x.x, for example:
 
 ```Bash
 python -m OnScreeM.py
