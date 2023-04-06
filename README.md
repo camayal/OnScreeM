@@ -4,9 +4,9 @@ This little script was created with the aim of helping to take measurements with
 
 It creates a measurement zone on top of visible screen and allows to click in a desired are spots to take linear measurments.
 
-The first two points determine the scale in pixel equivalent to 1 cm, and then consecutive points determine independent measurements. Optionally, by pressing a key (a to z) allow to take measurments of 26 independent measurments. See usage for more details.
+The first two points determine the scale in pixel equivalent to 1 cm, and then consecutive points determine independent measurements. Optionally, by pressing a key (a to z) allow to take measurements of up to 26 independent measurements. See usage for more details.
 
-The app is minimizable, so user could change photo, app, tab, etc., and take even more measurements. At the end pressing the key `Tab` it will report the range and outliners if there are any.
+The app is minimizable, so user could change photo, app, tab, etc., and take even more measurements. At the end pressing the key `Tab` it will report the range and outliners if there are any, or `Shift + Tab` to report all the taken measurements.
 
 ## Installation and execution
 No installation required.
@@ -41,5 +41,9 @@ pip install tk
    3. Following pair of clicks set a individual measurment
    4. When done with measuring press `Tab` to copy into the clipboard a simplify report of minimum - maximum and possible outlier  
    5. If complete measurments are wanted press instead `Shift + Tab` to copy into the clipboard all measurments in a CSV format. This can be pasted in Excel or Notepad  
-   
+### Measuring more than one thing
+If the plan is taking measurements of multiple elements (step 3 above), for example, petioles and blade width, the user can press any letter to be associated with that measurement. This also will change the color of measures lines for reference. 
+So, after setting the scale press any key letter (e.g., `p`) and take the measurements of all **p**etioles, then press another key letter (e.g., `w`) and take the **w**idth of all blades. 
+OnScreeM will maintain two lists of values and it will report them accordingly.
+
 ![Image](./ico/animation-onscreem.gif)
