@@ -11,9 +11,7 @@ The app is minimizable, so user could change photo, app, tab, etc., and take eve
 ## Installation and execution
 No installation required.
 
-Use any of the binaries in the [Releases](https://github.com/camayal/OnScreeM/releases/latest) section. Those are executables and should work on Windows (`OnScreeM.exe`) or Linux (`OnScreeM`).
-
-Or just download the script [`OnScreeM.py`](https://raw.githubusercontent.com/camayal/OnScreeM/main/OnScreeM.py) in any folder and run it using Python v.3.x.x, for example:
+Download the script [`OnScreeM.py`](https://raw.githubusercontent.com/camayal/OnScreeM/main/OnScreeM.py) in any folder and run it using Python v.3.x.x, for example:
 
 ```Bash
 python -m OnScreeM.py
