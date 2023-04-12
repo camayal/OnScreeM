@@ -9,7 +9,7 @@ The first two points determine the scale in pixel equivalent to 1 cm, and then c
 The app is minimizable, so user could change photo, app, tab, etc., and take even more measurements. At the end pressing the key `Tab` it will report the range and outliners if there are any, or `Shift + Tab` to report all the taken measurements.
 
 ## Installation and execution
-No installation required.
+No installation required. Be sure Python v.3 (minimum) is also installed.
 
 Download the script [`OnScreeM.py`](https://raw.githubusercontent.com/camayal/OnScreeM/main/OnScreeM.py) in any folder and run it using Python v.3.x.x, for example:
 
